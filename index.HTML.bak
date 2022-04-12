@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Fortalecendo o corre</title>
+<link rel="stylesheet" href="Bem_Bonita.css" type="text/css">
+<meta charset="UTF-8">
+</head>
+<body>
+	<main>
+		<header id="cabecalho">    
+      <img src="169070970_3865366966850476_3198202795787076940_n.jpg">
+		         <nav id="menu_esquerdo">
+		      	<a href="index.html"> Home</a>
+			<a href="#quemsomos"> Quem Somos</a>
+			<a href="#menu_s"> Menu</a>
+			<a href="#contato"> Contato</a> 
+		         </nav> 
+		       	
+		        <nav id="menu_direito">
+					<a href="#" class="link3"> Agende aqui </a> 
+		       </nav>
+		 </header>
+
+		 
+		<section id="miolo">   
+			<div id="lado_esquerdo"> 
+				   <header id="titulo_meio"  class="texto">
+					Bem Bonita <br> Salão de Beleza e Estetica
+		  		  </header>
+
+		   		
+				<a href="#" class="link4"> Saiba Mais </a> 
+			  </div>
+		  </section>
+          <a name="quemsomos" id="quemsomos">
+          <section id="quem_somos">   
+			<div id="lado_esquerdo"  class="texto2"> 
+               		   <header id="titulo_meio" style="color:#222">
+					Venha nos Vistar e conheça nossa instalação!
+		  		  </header>
+		   		<p style="color:#222">Estamos no bairro do Itaim Paulista desde 2014. Um espaço inovador e sofisticado, pensado exclusivamente para cuidar da sua beleza com o máximo de conforto e bem-estar.
+				</p>
+				<a href="#" class="link6"> Click para nossa galeria de fotos </a>
+			  </div>
+
+              <div id="lado_direito"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.7515690968617!2d-46.41124678255614!3d-23.505456099999986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce63864bbdc655%3A0xb11afd26deaae43e!2sSal%C3%A3o%20De%20Beleza%20E%20Est%C3%A9tica%20Bem%20Bonita!5e0!3m2!1spt-BR!2sbr!4v1648944555405!5m2!1spt-BR!2sbr"
+                 width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		  </section>
+         
+          <section id="menu">           
+			<div id="menu1" class="menus"> <img src="royalty-free-woman-clip-art-beauty-salon.jpg"> <p>Cabelo</p> <br>
+                 <p> *Escova<br> 
+                     *Hidratação<br>   
+                     *Reconstrução<br>   
+                     *Cortes<br>
+                     *Entre outras coisas<br>
+                 </p> <a href="#" class="link5"> Click para saber mais! </a>  </div>
+            <div id="menu2" class="menus"> <img src="esmalte.png"> <p>Unhas</p><br>
+                 <p> *Manicure<br>
+                     *Pedicure<br>
+                     *Alongamento de unhas<br>
+                     *Spa de mão e pé<br>
+                 </p> <a href="#" class="link5"> Click para saber mais! </a>  </div>
+            <div id="menu3" class="menus"> <img src="estetica2.png"> <p>Estetica</p><br>
+                 <p> *Design de sobrancelha<br>
+                     *Limpeza de pele<br>
+                     *Massagem relaxante<br>
+                     *Massagem modeladora<br>
+                     </p> <a href="#" class="link5">Click para saber mais! </a>  </div>
+           
+                
+                </div>
+              </section>
+              <a name="contato" id="contato">
+              <section id="contato">   
+              
+                  <h1>Entre em contato com a gente:</h1>
+                  <br>
+                <form action=" " name="form">
+                  
+                          <label></label>                       
+                          <input type="text" name="nome" maxlength="50" size="50" placeholder="* Digite seu nome:">
+                          <br>          
+                          
+                          <label></label>                      
+                          <input type="email" name="mail" maxlength="30" size="30"placeholder="* Digite seu email:">
+                           <br>                 
+                          
+                           <label></label>                       
+                          <input type="email" name="mail" maxlength="30" size="30" placeholder="* Digite seu telefone:">
+                            <br>
+                          <label></label>	
+		                  <textarea cols="20" rows="10" placeholder="* Comente aqui:"></textarea> <br>
+                            <input type="submit" class="botao">
+                </form>
+		
+              </section>
+              <footer><p>Salão de Beleza Bem Bonita - Rua Ipe roxo, 1131 - Jardim dos Ipes - SP CEP: 08160-330 </p></footer>
+	</main>
+</body>
+</html>
